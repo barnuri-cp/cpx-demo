@@ -1,0 +1,7 @@
+
+OpenJDK 64-Bit Server VM warning: Insufficient space for shared memory file:
+   2716981
+Try using the -Djava.io.tmpdir= option to select an alternate temp location.
+
+[+] LDAP Server Start Listening on 1389...
+[+] HTTP Server Start Listening on 8888...

