@@ -1,3 +1,3 @@
 # cpx-demo
 
-read install.sh
+read [./install.sh](install.sh)
